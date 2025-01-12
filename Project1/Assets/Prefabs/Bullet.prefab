@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 2251436006801341000}
   - component: {fileID: 8081180828381716641}
   - component: {fileID: -7150130034906733138}
+  - component: {fileID: 647130128844510017}
+  - component: {fileID: 5897018656608438596}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Projectile
@@ -130,3 +132,34 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.14, y: 1.14}
   m_EdgeRadius: 0
+--- !u!114 &647130128844510017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 102836505472302421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &5897018656608438596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 102836505472302421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: bea9935445e4e6f40be52db20ea013cd, type: 2}
