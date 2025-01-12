@@ -562,7 +562,7 @@ PrefabInstance:
     - target: {fileID: 745860897620650763, guid: da546157f1ef76342af8fe84a01ae34b, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Background","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DesiredColor","value":{"r":1.0,"g":1.0,"b":1.0,"a":1.0,"$type":"UnityEngine.Color"},"typeHandle":{"Identification":"UnityEngine.Color,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DesiredColor","value":{"r":1.0,"g":0.2216981,"b":0.2216981,"a":1.0,"$type":"UnityEngine.Color"},"typeHandle":{"Identification":"UnityEngine.Color,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 745860897620650763, guid: da546157f1ef76342af8fe84a01ae34b, type: 3}
@@ -575,7 +575,7 @@ PrefabInstance:
       objectReference: {fileID: 33052879}
     - target: {fileID: 6074905478437081819, guid: da546157f1ef76342af8fe84a01ae34b, type: 3}
       propertyPath: m_Name
-      value: Button
+      value: Button red
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -728,7 +728,7 @@ PrefabInstance:
       objectReference: {fileID: 33052879}
     - target: {fileID: 6074905478437081819, guid: da546157f1ef76342af8fe84a01ae34b, type: 3}
       propertyPath: m_Name
-      value: Button (1)
+      value: Button blue
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1285,7 +1285,7 @@ PrefabInstance:
     - target: {fileID: 745860897620650763, guid: da546157f1ef76342af8fe84a01ae34b, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Background","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DesiredColor","value":{"r":1.0,"g":1.0,"b":1.0,"a":1.0,"$type":"UnityEngine.Color"},"typeHandle":{"Identification":"UnityEngine.Color,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DesiredColor","value":{"r":0.4089979,"g":0.8584906,"b":0.4703392,"a":1.0,"$type":"UnityEngine.Color"},"typeHandle":{"Identification":"UnityEngine.Color,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 745860897620650763, guid: da546157f1ef76342af8fe84a01ae34b, type: 3}
@@ -1298,7 +1298,7 @@ PrefabInstance:
       objectReference: {fileID: 33052879}
     - target: {fileID: 6074905478437081819, guid: da546157f1ef76342af8fe84a01ae34b, type: 3}
       propertyPath: m_Name
-      value: Button
+      value: Button green
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
