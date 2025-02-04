@@ -7,6 +7,9 @@ TagManager:
   - Shop
   - Coin
   - Wall
+  - ArmorUI1
+  - ArmorUI2
+  - Shooter
   layers:
   - Default
   - TransparentFX
@@ -15,7 +18,7 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
+  - Shooter
   - Coins
   - Shop
   - 
