@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6027667456021093276}
   - component: {fileID: 7759635133125460741}
   - component: {fileID: 8631378423611095215}
-  - component: {fileID: 6355912273811096582}
+  - component: {fileID: -1751837350696652872}
   m_Layer: 8
   m_Name: Coin
   m_TagString: Coin
@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.15385845, y: -1.1829498, z: 0}
-  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
+  m_LocalScale: {x: 0.50418, y: 0.50418, z: 1.6806}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -76,8 +76,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 0.74258983, g: 1, b: 0, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 3020f2bada0494434b3d213c3d5484d4, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -120,8 +120,8 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: a39fcf4ccde80934f86b639e46bda442, type: 2}
---- !u!70 &6355912273811096582
-CapsuleCollider2D:
+--- !u!58 &-1751837350696652872
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -153,5 +153,5 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 0.99999994, y: 1.9999999}
-  m_Direction: 0
+  serializedVersion: 2
+  m_Radius: 0.34999996
