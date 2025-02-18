@@ -8,7 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Graybox.unity
     guid: e87aaea613cfd9842b22ada4cddb34db
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/FinalScene.unity
     guid: 02e5ad7f987dd834a9d8c698b1b7b25b
+  - enabled: 1
+    path: Assets/Scenes/Unbalanced.unity
+    guid: 9f7c37777f6181947ac8ca7a689471d2
+  - enabled: 1
+    path: Assets/Scenes/Balanced.unity
+    guid: 37eeadbc7e223c5459d31740194cb751
   m_configObjects: {}
