@@ -10,6 +10,7 @@ TagManager:
   - Fort
   - Cannon
   - Mine
+  - Projectile
   layers:
   - Default
   - TransparentFX
