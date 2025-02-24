@@ -8,6 +8,10 @@ TagManager:
   - Floor
   - Collision
   - win
+  - Change
+  - Change1
+  - Change2
+  - Save
   layers:
   - Default
   - TransparentFX
