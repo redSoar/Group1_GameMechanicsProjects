@@ -11,6 +11,8 @@ TagManager:
   - Change
   - Save
   - Room
+  - CheckP
+  - Hazard
   layers:
   - Default
   - TransparentFX
