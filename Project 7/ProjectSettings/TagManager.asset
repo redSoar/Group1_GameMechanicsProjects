@@ -9,9 +9,8 @@ TagManager:
   - Collision
   - win
   - Change
-  - Change1
-  - Change2
   - Save
+  - Room
   layers:
   - Default
   - TransparentFX
