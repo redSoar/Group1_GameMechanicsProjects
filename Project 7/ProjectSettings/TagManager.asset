@@ -13,6 +13,7 @@ TagManager:
   - Room
   - CheckP
   - Hazard
+  - Unclimbable
   layers:
   - Default
   - TransparentFX
