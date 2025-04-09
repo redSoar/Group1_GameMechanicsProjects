@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -8607756187848354667}
   - component: {fileID: 1382345270114417173}
   m_Layer: 0
-  m_Name: AW
+  m_Name: Wings
   m_TagString: AW
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -100,7 +100,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Ablilty","value":null,"typeHandle":{"Identification":"System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &-8607756187848354667
 MonoBehaviour:
