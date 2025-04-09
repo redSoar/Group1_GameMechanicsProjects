@@ -4615,7 +4615,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6318870727141915202, guid: aa1b7b0ce0a80034bacc2874e6874d36, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.35
+      value: -0.885
       objectReference: {fileID: 0}
     - target: {fileID: 6318870727141915202, guid: aa1b7b0ce0a80034bacc2874e6874d36, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5979,6 +5979,10 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"hitR","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"glide_descend_speed","value":{"$content":-1.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Gliding","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"GetAJ","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"GetWJ","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Getglid","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Get","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 2920228204314131467, guid: 7fa3dfc20510c884c9e052afd2d083a7, type: 3}
@@ -5999,11 +6003,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7950066623806094807, guid: 7fa3dfc20510c884c9e052afd2d083a7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.89
+      value: 0.53
       objectReference: {fileID: 0}
     - target: {fileID: 7950066623806094807, guid: 7fa3dfc20510c884c9e052afd2d083a7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.46
+      value: 1.765
       objectReference: {fileID: 0}
     - target: {fileID: 7950066623806094807, guid: 7fa3dfc20510c884c9e052afd2d083a7, type: 3}
       propertyPath: m_LocalPosition.z
