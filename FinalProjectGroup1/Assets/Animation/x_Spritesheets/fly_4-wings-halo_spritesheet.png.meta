@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 612461da9c75f40488c9a2d2352b15ae
+guid: 31d0a416c8a584a09865c8ff29937572
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,7 +123,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprint_4-wings_spritesheet_0
+      name: fly_4-wings-halo_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef59158c7071241bba6c3e16e4f68a05
-      internalID: -1558528832
+      spriteID: fd87c69182559431eb4b284ec7b967a8
+      internalID: -1658860943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprint_4-wings_spritesheet_1
+      name: fly_4-wings-halo_spritesheet_1
       rect:
         serializedVersion: 2
         x: 32
@@ -158,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 109e8b22e68834ff0821264a7834f54c
-      internalID: 179025628
+      spriteID: 80b3aa38691a1497985eb9333ab40a88
+      internalID: -1779766912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprint_4-wings_spritesheet_2
+      name: fly_4-wings-halo_spritesheet_2
       rect:
         serializedVersion: 2
         x: 64
@@ -179,14 +179,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b585a2f523efc4626bfc29b94eccb35a
-      internalID: -995827945
+      spriteID: 8f321db7145364e28bb21784199f590a
+      internalID: 1411129864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprint_4-wings_spritesheet_3
+      name: fly_4-wings-halo_spritesheet_3
       rect:
         serializedVersion: 2
         x: 96
@@ -200,14 +200,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64966fa6259c0436abe5326063d74365
-      internalID: -1499458904
+      spriteID: 02ada2ec0db3745a1b50135f79c304f9
+      internalID: -355861222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprint_4-wings_spritesheet_4
+      name: fly_4-wings-halo_spritesheet_4
       rect:
         serializedVersion: 2
         x: 128
@@ -221,8 +221,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d7bbea9541ac4641b16d0dcbe5bf047
-      internalID: -40905514
+      spriteID: 862907b3fc9fa4776a9472c927586584
+      internalID: 230962987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_4-wings-halo_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36e282aa57e2475a872ba68bb8aae1c
+      internalID: -1665395275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_4-wings-halo_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6c95f96bd37468299ace8cf24a731e
+      internalID: 2043228772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_4-wings-halo_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80da192adaed4913bd87c1154616d22
+      internalID: 1646377226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_4-wings-halo_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6afd8d56bcd41808ad92dca0e010c2
+      internalID: -715283501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fly_4-wings-halo_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9275c6f68d17b486483c79f03382e711
+      internalID: -1027512134
       vertices: []
       indices: 
       edges: []
@@ -238,11 +343,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      sprint_4-wings_spritesheet_0: -1558528832
-      sprint_4-wings_spritesheet_1: 179025628
-      sprint_4-wings_spritesheet_2: -995827945
-      sprint_4-wings_spritesheet_3: -1499458904
-      sprint_4-wings_spritesheet_4: -40905514
+      fly_4-wings-halo_spritesheet_0: -1658860943
+      fly_4-wings-halo_spritesheet_1: -1779766912
+      fly_4-wings-halo_spritesheet_2: 1411129864
+      fly_4-wings-halo_spritesheet_3: -355861222
+      fly_4-wings-halo_spritesheet_4: 230962987
+      fly_4-wings-halo_spritesheet_5: -1665395275
+      fly_4-wings-halo_spritesheet_6: 2043228772
+      fly_4-wings-halo_spritesheet_7: 1646377226
+      fly_4-wings-halo_spritesheet_8: -715283501
+      fly_4-wings-halo_spritesheet_9: -1027512134
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
