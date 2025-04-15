@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: spikes-left_anim-tile
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 732850417, guid: 77ff76de3525f4f29976077c66b7a945, type: 3}
+  - {fileID: -328361757, guid: 77ff76de3525f4f29976077c66b7a945, type: 3}
+  - {fileID: -511825283, guid: 77ff76de3525f4f29976077c66b7a945, type: 3}
+  - {fileID: 664051862, guid: 77ff76de3525f4f29976077c66b7a945, type: 3}
+  - {fileID: 1916040870, guid: 77ff76de3525f4f29976077c66b7a945, type: 3}
+  - {fileID: 2139076505, guid: 77ff76de3525f4f29976077c66b7a945, type: 3}
+  m_MinSpeed: 15
+  m_MaxSpeed: 15
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
